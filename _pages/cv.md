@@ -1,64 +1,47 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Resume"
+permalink: /resume/
+author_profile: false
 ---
 
-{% include base_path %}
+# Resume
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Thank you for taking the time to review my professional portfolio.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+My resume provides a comprehensive overview of my professional experience, technical expertise, certifications, leadership experience, and career progression across customer success, technical support, operations, business strategy, and digital transformation.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Download Resume
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+📄 **Latest Resume (PDF)**
+
+[📄 Download My Resume (PDF)](/files/Walid%20Ragheb%20CV.PDF)
+
+---
+
+# Professional Summary
+
+Technical Support Specialist with extensive experience across Customer Success, Operations Leadership, SaaS platforms, Business Strategy, Digital Transformation, and Logistics Management.
+
+Experienced in solving complex customer challenges, improving operational efficiency, leading cross-functional initiatives, and continuously expanding technical expertise through professional certifications and hands-on learning.
+
+---
+
+# Highlights
+
+- Customer Success
+- Technical Support
+- Operations Leadership
+- Business Strategy
+- Digital Transformation
+- SaaS Platforms
+- API Fundamentals
+- Workflow Optimization
+- Process Improvement
+- Business Analysis
+- Project Coordination
+
+---
+
+For additional information, please feel free to contact me through the Contact page.
