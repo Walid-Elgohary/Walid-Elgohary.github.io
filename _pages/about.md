@@ -7,95 +7,109 @@ redirect_from:
   - /about.html
 ---
 
-# Technical Support Specialist | Customer Success | Operations Leadership | Digital Transformation | SaaS & API Support
+# Walid Ragheb El-Gohary
 
-I help businesses solve complex technical and operational challenges by combining three core strengths:
+## Technical Support Specialist | Customer Success | Operations Leadership | Digital Transformation | SaaS & API Support
 
-- Extensive customer-focused experience across technical support, customer success, operations, logistics, and business transformation.
+> **Bridging technical expertise, operational excellence, and customer success to solve complex business challenges.**
+
+I help organizations solve complex technical and operational challenges by combining three core strengths:
+
+- Extensive customer-facing experience across Technical Support, Customer Success, Operations Leadership, Logistics, and Business Transformation.
 - Industry-recognized certifications complemented by practical, hands-on experience.
-- A relentless commitment to continuous learning, professional development, and continuous improvement.
+- A relentless commitment to continuous learning, continuous improvement, and professional growth.
 
-I am currently seeking opportunities with a world-class customer experience SaaS organization where I can leverage my technical expertise, operational leadership, and commitment to continuous growth to create meaningful value for both customers and the business.
+I am currently seeking opportunities with a world-class SaaS organization where I can combine technical expertise, operational leadership, and customer-centric thinking to create measurable value for both customers and the business.
+
+---
+
+# Download Resume
+
+📄 **[Download My Resume](/resume/)**
+
+---
+
+# Technical Journey
+
+```text
+Bachelor of Science
+        │
+        ▼
+Customer Experience
+        │
+        ▼
+Technical Support
+        │
+        ▼
+Customer Success
+        │
+        ▼
+Operations Leadership
+        │
+        ▼
+Business Strategy
+        │
+        ▼
+Digital Transformation
+        │
+        ▼
+SaaS & API Technical Support
+```
+
+My career has been built around continuously expanding my ability to solve increasingly complex business and technical challenges. Each role strengthened a different capability—from customer communication and technical troubleshooting to operational leadership, business strategy, and digital transformation.
+
+Today, my focus is on combining these experiences within modern SaaS environments where technology, customer experience, and business operations intersect.
 
 ---
 
 # Core Competencies
 
-## Customer Success & Technical Support
+### Customer Success
 
-- High-Risk Account Retention
 - Customer Success
+- Customer Retention
 - Customer Onboarding
-- Contract-to-Activation Lifecycle Management
-- Escalation Resolution
+- Escalation Management
+- Customer Lifecycle Management
+
+### Technical Support
+
 - Technical Troubleshooting
-- Client Experience Optimization
-- Negotiation & Objection Handling
-
----
-
-## Operations & Business Execution
-
-- Operations Leadership
-- Cross-Functional Coordination
-- Logistics Planning
-- Workforce Management
-- KPI Monitoring
-- Performance Reporting
-- Process Optimization
-- Crisis Recovery & Operational Stabilization
-
----
-
-## Technical Skills
-
-- API Fundamentals
 - REST APIs
+- API Fundamentals
 - JSON
-- API Testing
 - Postman
 - SaaS Platforms
 - CRM Systems
-- Workflow Design
-- Business Process Automation
-- Git & GitHub
 
----
+### Operations
 
-## Leadership & Professional Strengths
+- Operations Leadership
+- Logistics Coordination
+- Workforce Management
+- KPI Monitoring
+- Process Optimization
+- Cross-Functional Collaboration
+
+### Strategy
 
 - Business Strategy
 - Business Architecture
 - Digital Transformation
-- Analytical Problem Solving
-- Executive Prioritization
-- Remote Team Leadership
-- Continuous Professional Development
+- Business Analysis
+- Continuous Improvement
+- Workflow Design
 
 ---
 
 # Career Objective
 
-My objective is to contribute to a customer-centric SaaS organization where technical excellence, customer success, continuous learning, and operational excellence are valued equally.
-
-I enjoy solving difficult customer problems, improving operational workflows, collaborating across technical and business teams, and continuously expanding my technical capabilities to deliver exceptional customer experiences.
+My objective is to become a trusted technical and business partner within a customer-centric SaaS organization by delivering exceptional technical support, improving operational efficiency, solving customer challenges, and continuously expanding my technical capabilities.
 
 ---
 
-# Languages
+# Professional Philosophy
 
-- 🇬🇧 English — Professional Business Proficiency
-- 🇪🇬 Arabic — Native
+I believe the most effective technical professionals are those who understand both technology and the business problems it exists to solve.
 
----
-
-# Currently Learning
-
-- Advanced REST APIs
-- API Integrations
-- Postman
-- Webhooks
-- JSON
-- SaaS Platforms
-- AI-assisted Technical Support
-- Workflow Automation
+Whether supporting customers, improving operational workflows, or implementing digital transformation initiatives, my approach is centered on curiosity, ownership, collaboration, and continuous learning.
