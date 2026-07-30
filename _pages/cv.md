@@ -16,7 +16,7 @@ My resume provides a comprehensive overview of my professional experience, techn
 
 📄 **Latest Resume (PDF)**
 
-[📄 Download My Resume (PDF)](/files/Walid%20Ragheb%20CV.PDF)
+[📄 Download My Resume (PDF)](/files/Walid_Ragheb_CV.pdf)
 
 ---
 
