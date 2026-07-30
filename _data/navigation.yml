@@ -9,10 +9,7 @@
 
 main:
   - title: "Home"
-    url: /
-
-  - title: "About"
-    url: /about/    
+    url: /   
 
   - title: "Experience"
     url: /experience/    
